@@ -16,7 +16,7 @@ description: Find information about document and solution types that Office Tele
 
 # Document and solution types monitored by Office Telemetry Dashboard
 
-***Applies to:*** *Office 365 ProPlus, Office 2019, and Office 2016*
+***Applies to:*** *Microsoft 365 Apps for enterprise, Office 2019, and Office 2016*
 
 The following table lists the document and solution types that Office Telemetry Dashboard monitors in Office 2019 and Office 2016.
   
