@@ -190,6 +190,11 @@ Microsoft provides three main methods to modify Microsoft 365 Apps update channe
 
 When you switch channels, there are certain considerations - such as loss of features when switching users from Current Channel to Semi-Annual Enterprise Channel. For a complete list of considerations, see [Considerations when changing channels](https://docs.microsoft.com/deployoffice/change-update-channels#considerations-when-changing-channels).
 
+#### Teams Resources
+
+[Microsoft Teams Public Preview](https://docs.microsoft.com/en-us/microsoftteams/public-preview-doc-updates)
+[Teams Update Process](https://docs.microsoft.com/en-us/microsoftteams/teams-client-update)
+
 #### Client release controls
 
 In conjunction with release channels, which are inherently controls themselves, Microsoft provides a selection of tools and configurations for further deploying, controlling, and managing your Microsoft 365 clients. The tools for managing your devices and the Microsoft 365 clients installed on them have historically been decentralized. In addition to a multitude of third-party options that are available, the Microsoft solutions include the following tools:
